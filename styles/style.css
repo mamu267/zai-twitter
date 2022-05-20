@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+.mainContainer {
+    background: #ffffff;
+    height: 100vh;
+}
+
+.sidebar {
+    width: 30%;
+    height: 100%;
+    border-right: 1.3px solid #38444d;
+}
+
+.main {
+    width: 70%;
+    height: 100%;
+}
